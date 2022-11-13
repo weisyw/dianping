@@ -87,7 +87,7 @@ class HmDianPingApplicationTests {
 
 
     /**
-     * 测试 UV 统计 百万数据的统计
+     * 测试UV统计 百万数据的统计
      */
     @Test
     void testHyperLogLog() {
